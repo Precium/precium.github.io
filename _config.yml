@@ -103,17 +103,17 @@ analytics:
 # Site Author
 author:
   name             : "Precium Foundation"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  #avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Precium Weekly Report & Insight"
   #location         : "Seoul, Korea"
-  email            : contact@precium.io
+  #email            : contact@precium.io
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      url: mailto:contact@precium.io
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://precium.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
